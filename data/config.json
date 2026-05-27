@@ -3,7 +3,7 @@
   "admin_ids": [7675369659],
   "channel_username": "channelniyato",
   "locked": false,
-  "global_limit": null,
+  "global_limit": 200000,
   "vip_limit": null,
   "default_threads": 10,
   "max_concurrent": 5,
